@@ -233,3 +233,4 @@ print(len(lista_corta)-1)
 
 # todo esto anda super bien, es un buen ejemplo.....
 
+ksjhf 

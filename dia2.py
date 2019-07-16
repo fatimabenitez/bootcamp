@@ -12,4 +12,5 @@ print(variable_lista)
 for cualquier_cosa in range(10):# del 0 al 9, son 10 elementos
     print(cualquier_cosa)
 
-for cualquier_cosa in range()
+for cualquier_cosa in range():
+    dfgsdgsfg

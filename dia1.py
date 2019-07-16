@@ -231,5 +231,5 @@ print(len(lista_corta))
 print(len(lista_corta)-1)
 
 
-rdgsdf
+# todo esto anda super bien, es un buen ejemplo.....
 
